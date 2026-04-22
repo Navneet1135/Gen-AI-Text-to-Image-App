@@ -34,8 +34,8 @@ A Generative AI web application that converts natural language prompts into high
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Navneet1135/Gen-AI-Text-to-Image-App.git
+cd Gen-AI-Text-to-Image-App
 ```
 
 ### 2. Install dependencies
